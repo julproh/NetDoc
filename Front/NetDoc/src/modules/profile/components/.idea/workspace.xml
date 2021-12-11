@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5ea4114-3b69-42b6-a996-68ea87505f8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../public/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../components/form-item/form-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../components/form-item/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../icons/user_men_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../actions/profile-actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../configs/profile-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../container/profile-container.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reducer/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reducer/profile-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sagas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sagas/profile-saga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/net-doc.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/net-doc.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/input/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../components/input/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="20mXcQPq1jEqfqdSrjEXxBXLETN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../NetCracker" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5ea4114-3b69-42b6-a996-68ea87505f8a" name="Changes" comment="" />
+      <created>1636650818057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636650818057</updated>
+      <workItem from="1636650820060" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
